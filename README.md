@@ -7,10 +7,23 @@ proyectos y mis intereses.
 * [Intereses](#intereses)
 ## Información personal
 * Nombre: Kenny Jara
-* Ocupación: Estudiante
+* Ocupación: Estudiante de Ingenieria en Computacion 
 * Lugar de residencia: Ecuador, Guayaquil
-* Sitio web: [Tu sitio web]
+* Sitio web: https://kgjara.github.io/curriculum/
 ## Proyectos
-* [Lista de tus proyectos]
+| Name of the Project      | Description | URL     |
+| :---        |    :----:   |          ---: |
+| Emoji Builder      | App para construir tu propio emoji        | [Emoji Builder](https://github.com/kgjara/EmojiBuilder)   |
+| Trie   | App para visualizar la estructura de dato Trie        | [Trie](https://github.com/kgjara/Trie)      |
+| Landing Page   | Pagina de practica sobre comics        | [Landing Page](https://github.com/kgjara/landing)      |
+| Dashboard   | Pagina donde muestra informacion sobre el clima de Guayaquil | [Dashboard](https://github.com/kgjara/dashboard)      |
+- **Proyecto Emoji Builder:** https://github.com/kgjara/EmojiBuilder
+- **Proyecto Trie: https:** https://github.com/kgjara/Trie
+- **Proyecto Landing Page:** https://github.com/kgjara/landing
+- **Proyecto Dashboard:** https://github.com/kgjara/dashboard
 ## Intereses
-* [Lista de tus intereses]
+*  Programar nuevos proyectos personales
+* Leer noticias acerca de las nuevas tecnologias
+* Realizar retos de programacion
+* Leer libros de todo tipo
+* Visitar nuevos lugares turisticos
